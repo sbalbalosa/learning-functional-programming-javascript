@@ -1,0 +1,19 @@
+{
+  "name": "todomvc-app-template",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tastejs/todomvc-app-template",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "ramda": "~0.17.1"
+  }
+}
